@@ -1,0 +1,9 @@
+Criar repositório
+Clonar repositório
+Criar index.html
+Criar style.css
+Criar pastas src/img src/css
+Tab e link:css Tab
+img grande de fundo
+main > h1
+src/css/universal.css

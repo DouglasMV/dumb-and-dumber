@@ -1,0 +1,126 @@
+
+#item1 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNDQ4MjUyNjc3Ml5BMl5BanBnXkFtZTgwNjgzOTIwMjE@._V1_SY1000_CR0,0,1496,1000_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item2 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTg0OTgwNzQwOV5BMl5BanBnXkFtZTgwODgzOTIwMjE@._V1_SY1000_CR0,0,1500,1000_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item3 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTk3ODUxOTA3MF5BMl5BanBnXkFtZTcwMTY2NDEzMQ@@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+#item4 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTc4NzIyMDI0OV5BMl5BanBnXkFtZTcwNjUzNjgwMw@@._V1_SY1000_CR0,0,882,1000_AL_.jpg");
+    grid-row: span 3;
+    grid-column: span 1;
+}
+
+#item5 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzQyZGU5ZDAtMjMwNS00NjA2LTg4NzAtZDY4NWY3ZjYzYTZhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item6 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYmZmNDJiNWMtNDJjNi00MWJlLThjN2UtNmNkYTg4ZTUxMTdkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item7 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzNjYjY2MjYtZThhYy00NzZiLWI3ZDUtYjQ2MDg4NDRlMTJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+#item8 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzY2NjI2NTM2Nl5BMl5BanBnXkFtZTcwMTMzNjgwMw@@._V1_SY1000_CR0,0,1509,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item9 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYjFkNGM0YTgtNmY4Ny00NWVkLTkyOWQtMTdhOGVmMmM5Mjc3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item10 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjVlOGJmN2ItNTNhOS00Y2QwLTljMTAtZGY3YzJiMGY0MGQwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item11 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNmVjNWY2MDQtNDA0ZC00OWVkLTg2NzUtZGI5NzI3ZDI0MmY0XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item12 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTY5MTQ0ODEzNV5BMl5BanBnXkFtZTgwOTgzOTIwMjE@._V1_SY1000_CR0,0,1478,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item13 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzVjODU4ODktMTY1NS00NjAwLWJhM2MtNjMyNWJkOWZiZTQ1XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item14 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjljODJhYTEtMGUwMS00NDFiLThkMzEtMzYyOWYxZjMyOTlhXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item15 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOGU0NzU1YzUtZTAyOS00M2VkLTkxNTctODBiZGYzOTY1NGMzXkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item16 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNzIzODJjMTEtNGZiMy00Yjk4LWIzMjQtNjMyMDY4Mjc4NmM1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM1MjQzNTk@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item17 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTUxODk4MTExMF5BMl5BanBnXkFtZTcwOTkzNjgwMw@@._V1_SY1000_CR0,0,1476,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item18 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYWVkNGEyNGEtMGJkOS00MzkzLThmZTYtN2E2ZDUyODYwMmI5XkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item19 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTI3MTEyMjc4OV5BMl5BanBnXkFtZTcwNDEzNjgwMw@@._V1_SY1000_CR0,0,1513,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item20 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYjZlMmJiMWEtMGNlZC00OGY1LWJjZGYtYmZiNTRmYmZmZWMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item21 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTk0MjEwMjc1MF5BMl5BanBnXkFtZTcwNDI0NjgwMw@@._V1_SY1000_CR0,0,1514,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
