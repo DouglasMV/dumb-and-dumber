@@ -6,10 +6,9 @@ main {
     background-image: url("../img/Debi-e-Loide.jpg");
     background-size: cover;
     background-attachment: fixed;
-    background-position-x: -100px;
+    background-position-x: -200px;
     justify-content: center;
     align-items: center;
-    border-bottom: 3px dashed white;
 }
 
 main div {
@@ -27,4 +26,10 @@ main div h1 {
 
 main div h2 {
     font-size: 2.6vmax;
+}
+
+@media screen and (min-width: 600px) {
+    main {
+        background-position-x: 0;
+    }
 }
