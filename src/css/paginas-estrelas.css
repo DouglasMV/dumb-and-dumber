@@ -10,6 +10,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-end;
     padding: 10px;
 }
 
@@ -50,14 +51,14 @@ a:hover {
 
 #jeff-main {
     background-image: url('../img/jeff.jpg');
-}
+}    
 
 #lauren-main {
     background-image: url('../img/lauren.jpg');
 }
 
 @media screen and (min-width: 900px) {
-    #lauren {
+    #lauren-main {
         background-size: contain;
         background-position-x: 0;
     }
